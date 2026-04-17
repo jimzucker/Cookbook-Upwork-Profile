@@ -158,3 +158,11 @@ Iterate until:
 ---
 
 Use this process anytime you want to reposition yourself or target higher-paying clients on Upwork.
+
+---
+
+# Example
+
+[Jim Upwork Profile](https://www.upwork.com/freelancers/~0193b2f3358763a5ec)
+
+![Profile Example](./ProfileExample.png)
